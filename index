@@ -1,0 +1,6 @@
+your-repository-name/
+├── index.html  <-- ROOT (correct)
+├── exercises/
+│   ├── exercise1/
+│   ├── exercise2/
+│   └── exercise3/
